@@ -22,8 +22,11 @@ body{
 
     position: relative;
 
-    /**/
+    /*NOVO: Organiza os elementos um abaixo do outro */
     flex-direction: column;
+
+    /**/
+    gap: 60px;
 }
 
 body::before, body::after{
