@@ -93,4 +93,5 @@ body::after{
 .info-card h3{
     /* Estiliza os títulos GIT e GITHUB */
     color: #f87171;
+    font-size: 1.4rem;
 }
