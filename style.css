@@ -86,7 +86,7 @@ body::after{
     background: rgba(220, 38, 38, 0.2);
     color: #f87171;
     padding: 6px 16px;
-    border-radius: 9999px;
+    border-radius: 100px;
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 16px;
