@@ -85,7 +85,7 @@ body::after{
     display: inline-block;
     background: rgba(220, 38, 38, 0.2);
     color: #f87171;
-    padding: 4px 12px;
+    padding: 6px 16px;
     border-radius: 9999px;
     font-size: 14px;
     font-weight: 600;
