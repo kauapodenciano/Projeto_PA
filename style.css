@@ -112,5 +112,6 @@ body::after{
     .informacoes{
         /* Organiza os cartões um abaixo do outro 
         quando a tela for pequena */
+        grid-template-columns: 1fr;
     }
 }
