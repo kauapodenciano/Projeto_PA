@@ -25,8 +25,11 @@ body{
     /*NOVO: Organiza os elementos um abaixo do outro */
     flex-direction: column;
 
-    /**/
+    /*NOVO: adiciona espaçamento nas bordas na páginav*/
     gap: 60px;
+
+    /**/
+    padding: 80px 20px;
 }
 
 body::before, body::after{
