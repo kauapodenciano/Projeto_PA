@@ -114,4 +114,8 @@ body::after{
         quando a tela for pequena */
         grid-template-columns: 1fr;
     }
+
+    .conteudo h2{
+        /* Diminui o tamanho do título no celular*/
+    }
 }
