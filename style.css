@@ -108,5 +108,9 @@ body::after{
 }
 
 @media (max-width: 768px){
-    
+
+    .informacoes{
+        /* Organiza os cartões um abaixo do outro 
+        quando a tela for pequena */
+    }
 }
