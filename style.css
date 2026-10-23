@@ -99,4 +99,5 @@ body::after{
 
 .info-card p{
     /* Ajusta o espaçamento entre os parágrafos*/
+    margin-bottom: 12px;
 }
