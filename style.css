@@ -21,6 +21,9 @@ body{
     overflow-y: auto;
 
     position: relative;
+
+    /**/
+    flex-direction: column;
 }
 
 body::before, body::after{
