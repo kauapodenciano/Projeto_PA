@@ -83,7 +83,7 @@ body::after{
 .badge{
     /* Estiliza o badge dentro do cartão */
     display: inline-block;
-    background: #2563eb;
+    background: rgba(220, 38, 38, 0.2);
     color: #f8fafc;
     padding: 4px 12px;
     border-radius: 9999px;
