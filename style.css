@@ -104,4 +104,5 @@ body::after{
 
 .info-card p:last-child{
     /* Remove o espaço abaixo do último parágrafo */
+    margin-bottom: 0;
 }
