@@ -137,7 +137,7 @@ p{
 .conteudo{
     /* Estiliza o conteúdo dentro do cartão */
     position: relative;
-    z-index: 116;
+    z-index: 1;
     width: 100%;
     max-width: 1000px;
     text-align: center;
