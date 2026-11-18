@@ -159,7 +159,7 @@ p{
 
 .info-card p:last-child{
     /* Remove o espaço abaixo do último parágrafo */
-    margin-bottom: 0;
+    margin-bottom: 190;
 }
 
 @media (max-width: 768px){
