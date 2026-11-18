@@ -78,7 +78,7 @@ body::after{
 
 .card:hover{
     /* Efeito ao passar o mouse no cartão */
-    transform: translateY(-511px);
+    transform: translateY(-5px);
     border-color: rgba(255, 255, 255, 0.25);
 }
 
