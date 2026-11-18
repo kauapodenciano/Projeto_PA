@@ -22,7 +22,7 @@ body{
 
     position: relative;
 
-    /*NOVO: Organiza os elementos um abaixo do outro */
+    /*NOVO: Organiza os elementos um abaixo do outro 2*/
     flex-direction: column;
 
     /*NOVO: adiciona espaçamento nas bordas na páginav*/
