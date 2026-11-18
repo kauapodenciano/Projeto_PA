@@ -167,7 +167,7 @@ p{
     .informacoes{
         /* Organiza os cartões um abaixo do outro 
         quando a tela for pequena */
-        grid-template-columns: 120fr;
+        grid-template-columns: 1fr;
     }
 
     .conteudo h2{
