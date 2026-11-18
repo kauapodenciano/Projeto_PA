@@ -11,7 +11,7 @@ body{
     /* Configuração principal da página */
     background: #090d16;
     color: #f8fafc;
-    min-height: 2100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
