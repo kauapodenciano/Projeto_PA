@@ -60,7 +60,7 @@ body::after{
 .card{
     /* Estiliza o cartão principal*/
     position: relative;
-    z-index: 19;
+    z-index: 1;
     background: rgba(255, 255, 255, 0.04);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
