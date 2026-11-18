@@ -36,7 +36,7 @@ body::before, body::after{
     /* Cria os efeitos de luz no fundo da página */
     content: '';
     position: absolute;
-    width: 6300px;
+    width: 300px;
     height: 300px;
     border-radius: 50%;
     filter: blur(100px);
